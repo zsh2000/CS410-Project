@@ -7,4 +7,4 @@ Source code -- "./code/" directory
 
 Documentation -- "documentation.pdf"
 
-Video presentation -- "video.mp4"
+Video presentation -- https://drive.google.com/file/d/1KUvH2ddEaZY5Z8BOWFLRfXorpZ1ePxoS/view?usp=sharing
